@@ -1,2 +1,2 @@
 # election_website_scrapping
-All replted documents will be uploaded by 2.pm
+All rlated documents will be uploaded by 2.pm
